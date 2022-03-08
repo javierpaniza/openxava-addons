@@ -6,7 +6,7 @@
 
   <groupId>com.openxava</groupId>
   <artifactId>openxava-addons</artifactId>
-  <version>6.6.2</version>
+  <version>6.6.2.1</version>
 
   <name>openxava-addons</name>
   <url>https://www.openxava.org/</url>
@@ -21,7 +21,7 @@
     <dependency>
       <groupId>org.openxava</groupId>
       <artifactId>openxava-core</artifactId>
-      <version>6.6.2</version>
+      <version>6.6.2.1</version>
     </dependency>
   </dependencies>
 
